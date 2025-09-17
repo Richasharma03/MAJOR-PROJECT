@@ -4,9 +4,6 @@
 
 </p>
 
-*Note: This project is now archived. Read the announcement at https://github.com/saurabhdaware/text-to-handwriting/issues/138*
-
-## 🌠 Output
 
 <img width="400" alt="Sample image of output" src="sample.jpeg" />
 
